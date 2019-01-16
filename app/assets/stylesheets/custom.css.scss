@@ -4,3 +4,13 @@
   height: 450px;
 }
 
+#messages {
+  height: 15 em;
+  overflow: auto;
+}
+
+.input {
+  button {
+    display: none;
+  }
+}
